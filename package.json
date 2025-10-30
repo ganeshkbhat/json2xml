@@ -1,0 +1,21 @@
+{
+  "name": "json2xml",
+  "version": "1.0.0",
+  "description": "read xml to json and json to xml simultaniously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkbhat/json2xml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ganeshkbhat/json2xml/issues"
+  },
+  "homepage": "https://github.com/ganeshkbhat/json2xml#readme"
+}
